@@ -1,5 +1,6 @@
 /segmentation
 /feature_detection
+/tracking
 *.nc
 *.err
 *.out
